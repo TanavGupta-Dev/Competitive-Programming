@@ -1,0 +1,26 @@
+{
+  "files.associations": {
+    "vector": "cpp",
+    "unordered_map": "cpp",
+    "xhash": "cpp",
+    "iostream": "cpp",
+    "xstring": "cpp",
+    "set": "cpp",
+    "deque": "cpp",
+    "initializer_list": "cpp",
+    "list": "cpp",
+    "queue": "cpp",
+    "stack": "cpp",
+    "utility": "cpp",
+    "xtree": "cpp",
+    "xutility": "cpp"
+  },
+  "[cpp]": {
+    "editor.defaultFormatter": "ms-vscode.cpptools",
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true
+  },
+  "editor.tabSize": 4,
+  "editor.insertSpaces": true,
+  "editor.formatOnSave": true
+}

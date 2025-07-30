@@ -1,0 +1,25 @@
+{
+  "CPP Boilerplate": {
+    "prefix": "cpp",
+    "body": [
+      "#include <iostream>",
+      "#include <vector>",
+      "#include <string>",
+      "#include <unordered_map>",
+      "#include <unordered_set>",
+      "#include <map>",
+      "#include <set>",
+      "#include <algorithm>",
+      "#include <stack>",
+      "#include <queue>",
+      "#include <deque>",
+      "#include <limits>",
+      "#include <cmath>",
+      "#include <numeric>",
+      "#include <functional>",
+      "",
+      "using namespace std;"
+    ],
+    "description": "Comprehensive C++ boilerplate with common includes"
+  }
+}
