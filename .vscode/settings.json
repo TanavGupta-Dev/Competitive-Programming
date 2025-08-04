@@ -15,6 +15,9 @@
     "xtree": "cpp",
     "xutility": "cpp"
   },
+  "files.exclude": {
+    "**/*.exe": true
+  },
   "[cpp]": {
     "editor.defaultFormatter": "ms-vscode.cpptools",
     "editor.tabSize": 4,
